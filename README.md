@@ -1,4 +1,11 @@
-# Git-Tutorial.md
+# Git-Tutorial
+
+## Introduction:
+
+- My name is _Anas_. I am from syria. I studied Mechanical Engineering and graduated from the LTUC.
+- I am 23 years old and I am studying codding currently.
+
+
 **THe Uses Of Git**
 
 ## Snapshots:
@@ -14,4 +21,7 @@
 
 ##### You can find more information and tutorials through [Git guid](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png).
 
-**git add** ..
+
+###### My repos:
+- _**[repos](https://github.com/X-Anas-X/README.md)**_
+
